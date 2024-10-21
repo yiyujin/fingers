@@ -96,6 +96,8 @@ div {
   padding : 16px;
 
   overflow: hidden;
+
+  white-space: pre-wrap;
 }
 
 .modal-content2>img {
