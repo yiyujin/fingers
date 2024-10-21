@@ -3,7 +3,7 @@ const data = [
         id : 0,
         title : "Open",
         titleKor : "열다",
-        methods : "bend saw, sander",
+        methods : "bend saw, drill press, sander",
         materials : "wood",
         process : "",
         img : [
@@ -16,7 +16,7 @@ const data = [
         id : 1,
         title : "Tilt",
         titleKor : "기울이다",
-        methods : "bend saw, laser cut, sander",
+        methods : "bend saw, drill press, laser cut, sander",
         materials : "wood",
         process : "",
         img : [
@@ -29,7 +29,7 @@ const data = [
         id : 2,
         title : "Turn",
         titleKor : "넘기다",
-        methods : "bend saw, sander",
+        methods : "bend saw, drill press, sander",
         materials : "wood, wire, paper",
         process : "",
         img : [
@@ -42,7 +42,7 @@ const data = [
         id : 3,
         title : "Put",
         titleKor : "끼우다",
-        methods : "laser cut, bend saw, sander, magnets",
+        methods : "bend saw, drill press, sander, magnets",
         materials : "wood",
         process : "",
         img : [
@@ -55,7 +55,7 @@ const data = [
         id : 4,
         title : "Pull",
         titleKor : "당기다",
-        methods : "bend saw, sander, paper, string",
+        methods : "bend saw, sander, paper, acryl, string",
         materials : "wood",
         process : "",
         img : [
